@@ -4,6 +4,9 @@ Setup for Linux environment
 ## Github CLI
 https://docs.github.com/en/github-cli/github-cli/quickstart
 
+## Neovim Download
+https://github.com/neovim/neovim/wiki/Installing-Neovim
+
 ## WSL Clipboard with Neovim
 for use in wsl: using the winyank, setup from the following link: https://github.com/neovim/neovim/wiki/FAQ#how-to-use-the-windows-clipboard-from-wsl
 
