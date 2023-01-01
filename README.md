@@ -10,4 +10,10 @@ for use in wsl: using the winyank, setup from the following link: https://github
 ## Neovim setup
 (in progress) https://github.com/JGillman10/nvim
 
-** Need to make bash script to automate this stuff
+## Alias in bashrc
+```bash
+alias python='python3'
+alias vim='nvim'
+```
+
+**Need to make bash script to automate this stuff**
