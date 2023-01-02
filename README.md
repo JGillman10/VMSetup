@@ -4,12 +4,19 @@ Setup for Linux environment
 ## Github CLI
 https://docs.github.com/en/github-cli/github-cli/quickstart
 
-## Clang and G++
+## Misc Software for Neovim
 If using WSL, these won't be installed
 ```bash
 sudo apt install clang
 sudo apt install g++
+sudo apt install npm
 ```
+
+## node and npm
+these are needed for some treesitter components
+use nvm package manager
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+https://medium.com/@iam_vinojan/how-to-install-node-js-and-npm-using-node-version-manager-nvm-143165b16ce1
 
 ## Neovim Download
 https://github.com/neovim/neovim/wiki/Installing-Neovim
