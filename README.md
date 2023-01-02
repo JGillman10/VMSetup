@@ -4,6 +4,13 @@ Setup for Linux environment
 ## Github CLI
 https://docs.github.com/en/github-cli/github-cli/quickstart
 
+## Clang and G++
+If using WSL, these won't be installed
+```bash
+sudo apt install clang
+sudo apt install g++
+```
+
 ## Neovim Download
 https://github.com/neovim/neovim/wiki/Installing-Neovim
 
