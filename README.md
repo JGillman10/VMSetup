@@ -4,6 +4,11 @@ Setup for Linux environment
 ## Github CLI
 https://docs.github.com/en/github-cli/github-cli/quickstart
 
+## Build-essential
+```bash
+sudo apt install build-essential
+```
+
 ## Misc Software for Neovim
 If using WSL, these won't be installed
 ```bash
