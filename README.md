@@ -4,6 +4,9 @@ Setup for Linux environment
 ## Github CLI
 https://docs.github.com/en/github-cli/github-cli/quickstart
 
+Additional Git setup:
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
 ## Build-essential
 ```bash
 sudo apt install build-essential
